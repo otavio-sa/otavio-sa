@@ -38,8 +38,8 @@
 ## 📊 GitHub Statistics
 <div>
   <a href="https://github.com/otavio-sa">
-    <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=Raullize&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raullize&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
+    <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=otavio-sa&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavio-sa&layout=compact&langs_count=8&card_width=320&theme=github_dark"/>
   </a>
 </div>
     
